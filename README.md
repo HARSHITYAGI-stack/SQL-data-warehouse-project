@@ -92,7 +92,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Harshit Tyagi**. Currently in fourth year of B.Tech speacilized in (AIML).
+Hi there! I'm **Harshit Tyagi**. Currently in fourth year of B.Tech CSE specialized in (AIML).
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 linkedin - www.linkedin.com/in/harshit-tyagi-ai
