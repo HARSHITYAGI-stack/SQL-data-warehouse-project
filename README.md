@@ -32,7 +32,8 @@ This project involves:
 - Data Analytics  
 
 ---
-
+datasets : Access to the project dataset (csv files).
+https://app.notion.com/p/SQL-Data-Warehouse-Project-5e1a26ff97cc82ed9417018a6ef6f5b3?source=copy_link : ACCESS TO ALL PROJECT PHASES AND TASKS
 
 ## 🚀 Project Requirements
 
