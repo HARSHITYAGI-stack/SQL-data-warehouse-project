@@ -32,7 +32,7 @@ This project involves:
 - Data Analytics  
 
 ---
-datasets : Access to the project dataset (csv files).
+https://github.com/HARSHITYAGI-stack/SQL-data-warehouse-project/tree/c9e8207db6e69dd0486a11e9047393c0419c93a4/datasets : Access to the project dataset (csv files).
 
 https://app.notion.com/p/SQL-Data-Warehouse-Project-5e1a26ff97cc82ed9417018a6ef6f5b3?source=copy_link : ACCESS TO ALL PROJECT PHASES AND TASKS
 
